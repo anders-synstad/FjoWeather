@@ -1,4 +1,4 @@
-var graphite = "http://graphite.mrfjo.org/render/";
+var graphite = "http://graphite.synstad.net/render/";
 
 var loaded = 0;
 
